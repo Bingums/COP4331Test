@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
+  border: 2px solid powderblue;
   color: green;
-  text-align: center;
+  text-align: center-left;
 }
 
 p{
